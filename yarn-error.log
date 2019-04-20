@@ -1,0 +1,32 @@
+Arguments: 
+  /Users/skarthikeya/.nvm/versions/node/v8.14.0/bin/node /Users/skarthikeya/.nvm/versions/node/v8.14.0/bin/yarn add graphql-yoga
+
+PATH: 
+  /Users/skarthikeya/.nvm/versions/node/v8.14.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.12.3
+
+Node version: 
+  8.14.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND npm.paypal.com npm.paypal.com:443
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+
+npm manifest: 
+  {
+    "name": "gql-node",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
